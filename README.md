@@ -12,10 +12,19 @@ Cockett, R., Kang, S., Heagy, L. J., Pidlisecky, A., & Oldenburg, D. W. (2015). 
 
 
 ## Installing / Getting started
+A quick introduction of the minimal setup you need to get up & running.
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
-
+### Clone the repository
 ```shell
-commands here
+git clone https://github.com/tpetillion/EOSC556B_ANTAEM
+```
+
+### Create the conda environment using the provided environment file
+```shell
+conda env create --file environment.yml
+```
+
+### Activate the environment
+```shell
+conda activate EOSC556B_ANTAEM
 ```
