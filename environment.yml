@@ -1,0 +1,15 @@
+name: EOSC556B_ANTAEM
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.*
+  - pip
+  - numpy
+  - simpeg
+  - discretize
+  - matplotlib
+  - pooch
+  - pandas
+  - ipython
+  - jupyter
+  - jupyterlab
