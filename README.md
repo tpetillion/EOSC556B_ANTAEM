@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # Inversion of ANTAEM data using SimPEG. 
 Course project repository for the inversion of ANTAEM data using SimPEG. 
 
