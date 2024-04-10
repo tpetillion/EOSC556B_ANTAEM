@@ -6,3 +6,13 @@ Tulaczyk, S. (2020) "ANTAEM project airborne EM resistivity data from McMurdo Re
 
 
 Cockett, R., Kang, S., Heagy, L. J., Pidlisecky, A., & Oldenburg, D. W. (2015). SimPEG: An open source framework for simulation and gradient based parameter estimation in geophysical applications. Computers & Geosciences.
+
+
+## Installing / Getting started
+
+A quick introduction of the minimal setup you need to get a hello world up &
+running.
+
+```shell
+commands here
+```
