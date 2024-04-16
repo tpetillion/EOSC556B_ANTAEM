@@ -13,3 +13,6 @@ dependencies:
   - ipython
   - jupyter
   - jupyterlab
+  - pip
+  - pip:
+    - contextily

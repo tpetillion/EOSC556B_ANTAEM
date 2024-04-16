@@ -161,3 +161,4 @@ cython_debug/
 
 # Ignore data folder
 usapdc_601373/
+gis/
