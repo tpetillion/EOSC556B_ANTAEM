@@ -168,3 +168,4 @@ gis/
 # Ignore uneeded test notebooks
 code/antaem-inversion.ipynb
 code/skytem-inversion.ipynb
+code/utilities
