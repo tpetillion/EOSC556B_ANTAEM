@@ -161,4 +161,10 @@ cython_debug/
 
 # Ignore data folder
 usapdc_601373/
+
+# Ignore gis folder
 gis/
+
+# Ignore uneeded test notebooks
+code/antaem-inversion.ipynb
+code/skytem-inversion.ipynb
