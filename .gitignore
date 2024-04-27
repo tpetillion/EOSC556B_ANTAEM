@@ -169,6 +169,6 @@ gis/
 code/antaem-inversion.ipynb
 code/skytem-inversion.ipynb
 code/utilities
-
+code/antaem-line-inversion - Copy.ipynb
 # ignore output csv's
 *.csv
