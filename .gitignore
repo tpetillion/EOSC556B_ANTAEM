@@ -171,4 +171,4 @@ code/skytem-inversion.ipynb
 code/utilities
 
 # ignore output csv's
-.csv
+*.csv
